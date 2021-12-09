@@ -2,7 +2,7 @@
 ### About me :
 I'm a computer science enthusiast in my mid-teen years (15). \
 I take great pleasure in things including, but not limited to : Problem Solving, Algorithms and UI/UX Design. \
-In addition, I also have many other passions/hobbies outside of the computer science realm, namely Wildlife and Cosmology. \
+![](https://github-stats-alpha.vercel.app/api/?username=r-besson)
 \
 Current Programming Languages **I know** / **I am still learning**: \
 \
